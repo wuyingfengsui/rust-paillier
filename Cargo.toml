@@ -15,7 +15,7 @@ bit-vec = "0.5"
 
 [dependencies.curv]
 git = "https://github.com/KZen-networks/curv"
-branch = "feature/libra-support"
+branch = "feature/libra-support-fix"
 
 [dev-dependencies]
 bencher = "0.1"
